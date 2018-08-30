@@ -8,8 +8,8 @@ environment:
   sdk: '>=1.8.0 <2.2.0'
 
 dependencies:
-  mockito: "^2.2.2"
-  meta: "^1.1.1"
+  mockito: ^3.0.0
+  meta: "^1.1.6"
   flutter:
     sdk: flutter
 
