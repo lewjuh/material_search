@@ -1,11 +1,11 @@
 name: material_search
 description: Implements part of the material search pattern with flutter widgets.
-version: 0.2.9
+version: 0.2.91
 author: Ian Luca de Godoy Serpa <ian.naph@gmail.com>
 homepage: https://github.com/ianldgs/material_search
 
 environment:
-  sdk: '>=1.8.0 <2.4.0'
+  sdk: '>=1.8.0 <4.4.0'
 
 dependencies:
   mockito: ^3.0.0
